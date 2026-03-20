@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 print("Welcome to Mad Libs!")
 name = input("What is your name? ")
 adjective = input("Enter an adjective (a describing word): ")
@@ -5,4 +6,13 @@ verb = input("Enter a verb: ")
 place = input("Enter a place: ")
 food = input("Enter a food: ")
 vehicle = input("Enter a vehicle: ")
+=======
+print("Welcome to Mad Libs!")
+name = input("What is your name? ")
+adjective = input("Enter an adjective (a describing word): ")
+verb = input("Enter a verb: ")
+place = input("Enter a place: ")
+food = input("Enter a food: ")
+vehicle = input("Enter a vehicle: ")
+>>>>>>> 70cb9df64c7fd56a4f7f5fe7ee5afca520f6b1e7
 print(name + " is a very " + adjective + " person to be around." + " They love to " + verb + " in " + place + ". Their favourite food is " + food + " which they eat in a " + vehicle + ".")
